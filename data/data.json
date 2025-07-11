@@ -3,7 +3,7 @@
     {
       "list": [
         {
-          "content": "Diseño y Desarrollo de aplicaciones Web y otro tipo de Software:\n•\tPHP 7/8\n•\tMySQL/Maria DB\n•\tSymfony Framework, Laravel\n•\tHTML5, CSS3, Javascript\n•\tBootstrap, JQuery, HOTWIRE Stimulus\n•\tReact\n•\tComposer, npm, yarn, webpack\n•\tGit, SSH\n•\tC#, .NET Platform, .NET Framework\n•\tMSSQL Server\n•\tConocimientos básicos de:\n\to\tDocker\n\to\tPython\n\to\tJava",
+          "content": "Diseño y Desarrollo de aplicaciones Web y otro tipo de Software:\n•\tPHP 5/7/8\n•\tMySQL/Maria DB\n•\tSymfony Framework, Laravel\n•\tHTML5, CSS3, Javascript\n•\tBootstrap, JQuery, HOTWIRE Stimulus\n•\tReact\n•\tComposer, npm, yarn, webpack\n•\tGit, SSH\n•\tC#, .NET Platform, .NET Framework\n•\tMSSQL Server\n•\tConocimientos básicos de:\n\to\tDocker\n\to\tPython\n\to\tJava",
           "title": "Diseño y Desarrollo de aplicaciones Web"
         },
         {
@@ -103,6 +103,22 @@
       "sector": "Desarrollo de software",
       "position": "Desarrollador web full-stack",
       "activities": "Desarrollo y mantenimiento de software de E-commerce."
+    },
+    {
+      "date_from": "01/2022",
+      "date_to": "3/2025",
+      "employer": "Webexport, Miguel Lillo 365 - Local 1 y 2 - Central, San Miguel de Tucumán.",
+      "sector": "Desarrollo de software",
+      "position": "Desarrollador web full-stack",
+      "activities": "Desarrollo y mantenimiento de software de E-commerce."
+    },
+    {
+      "date_from": "3/2025",
+      "date_to": "A la actualidad",
+      "employer": "Zafirus Technologies, Lamadrid 470, Oficina Makers. Rosario, Argentina.",
+      "sector": "Desarrollo de software",
+      "position": "Desarrollador web full-stack",
+      "activities": "Mantenimiento y actualización tecnológica de software de gestión."
     }
   ],
   "location": {
